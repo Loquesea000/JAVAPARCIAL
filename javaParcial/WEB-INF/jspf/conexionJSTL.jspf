@@ -1,0 +1,7 @@
+<%@ taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql" %>
+
+<sql:setDataSource var="DataSource" 
+    driver="com.mysql.jdbc.Driver" 
+    url="jdbc:mysql://bjjwt8kuxccnhgilh75f-mysql.services.clever-cloud.com:3306/bjjwt8kuxccnhgilh75f" 
+    user="utvlelyycpfyudk8" 
+    password="FpuXDSxnAA3caOPS0K0E" />
